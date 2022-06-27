@@ -10,7 +10,7 @@ logical HTML structure
 accessible images with alt attributes added
 restructured CSS file
 code pushed to GitHub and deployed via Github Pages
-To view live version of this repository, [click here]()
+To view live version of this repository, [click here](https://liamz34.github.io/Homework-1/)
 
 
 
